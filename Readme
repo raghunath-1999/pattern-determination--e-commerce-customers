@@ -1,0 +1,10 @@
+
+1. Initially Online Shoppers intention.csv file is stored in a local storage and passed its directory to the data variable in the code(pandas Data Frame).
+2. Every preprocessing and modeling  is done on runtime and the code can executed directly. 
+3. Every modeling and clustering are done in a sequential manner in a python notebook.
+
+ 
+ 
+ NeuralPython.ipynb is the main code file to be executed. 
+ 
+THE CODE WAS EXECUTED IN GOOGLE COLAB  
